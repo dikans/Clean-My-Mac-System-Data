@@ -59,7 +59,7 @@ A beautiful, interactive terminal script for cleaning up system data on macOS. F
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/yourusername/dikans-boot/main/mac_system_data_cleanup.zsh
+curl -O https://raw.githubusercontent.com/dikans/dikans-boot/main/mac_system_data_cleanup.zsh
 
 # Make it executable
 chmod +x mac_system_data_cleanup.zsh
@@ -71,7 +71,7 @@ chmod +x mac_system_data_cleanup.zsh
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/dikans-boot.git
+git clone https://github.com/dikans/dikans-boot.git
 cd dikans-boot
 chmod +x mac_system_data_cleanup.zsh
 ./mac_system_data_cleanup.zsh
